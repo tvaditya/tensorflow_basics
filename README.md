@@ -1,2 +1,3 @@
-# tensorflow_basics
+# Tensorflow basics
+
 The basics of tensorflow
